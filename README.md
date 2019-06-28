@@ -1,7 +1,3 @@
-# flutter_mlkit
-
-Flutter and MLKit demo
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
